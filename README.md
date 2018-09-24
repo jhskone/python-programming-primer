@@ -74,7 +74,7 @@ site a version of python for your particular OS, but this is is not the recommen
 way of upgrading yourself. You could also use a package manager if using linux 
 (yum, apt-get, etc.) or a mac (home brew, mac ports, etc.) to system install 
 python, but again this is not the easiest solution, requires root access on the
-machine and furthermore can complicate your managment of python on your system. 
+machine, and furthermore can complicate your managment of python on your system. 
 
 The simplest and recommended solution is for you to install the Anaconda 
 distribution of python. <br/>
