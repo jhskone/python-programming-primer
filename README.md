@@ -54,4 +54,16 @@ for you to interactively work with the notebooks and other contents of this repo
 
 ## Using Python on Your Personal Computer
 
-
+Most of your personal computers will come with python 2.7 already installed, but 
+to take full advantage of newer features and keep yourself contemporary, you'll 
+need to upgrade yourself to at least version 3.5 of python. It is recommended 
+that you do so by installing the Anaconda distribution of python. Why Anaconda?...
+because this distribution comes prepackaged with most of the python packages you would 
+want to use for scientific computing, like numpy, matplotlib, scipy, and jupyter 
+notebook server / lab. Furthermore it comes packaged with Intel's MKL math libraries
+that the numpy and scipy functions link against, providing you with faster linear 
+algebra calculations without any effort on your part to configure this. 
+### Installing Anaconda Python
+Follow the Instructions provided on the Continuum Analytics site for your 
+particular operating system. Download a 3.x version (either the latest or a version
+no older than 3.5)
