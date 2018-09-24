@@ -56,8 +56,13 @@ for you to interactively work with the notebooks and other contents of this repo
 
 Most of your personal computers will come with python 2.7 already installed, but 
 to take full advantage of newer features and keep yourself contemporary, you'll 
-need to upgrade yourself to at least version 3.5 of python. It is recommended 
-that you do so by installing the Anaconda distribution of python. Why Anaconda?...
+need to upgrade yourself to at least version 3.5 of python. The end-of-life for 
+the 3.5 version of python (i.e. the time at which no further updates or patches 
+will be released is 09,13,2020). For reference the newest stable release 3.x version
+of python (3.7) has an end-of-life scheduled for 06,27,2023.
+
+It is recommended that you install the Anaconda distribution of python. <br/>
+Why Anaconda?...<br/>
 because this distribution comes prepackaged with most of the python packages you would 
 want to use for scientific computing, like numpy, matplotlib, scipy, and jupyter 
 notebook server / lab. Furthermore it comes packaged with Intel's MKL math libraries
