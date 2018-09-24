@@ -9,10 +9,10 @@ fall quarter course.
 
 * Date: Sep 25 - Sep 27
 * Time: 9:00 am - 12:00 pm
-* On-Site Locations: 
+* On-Site Locations: <br/>
   Sept. 25  -- ERC 201B <br/>
-  Sept. 26  -- ERC 301B \s \s
-  Sept. 27  -- ACC 211 \s \s
+  Sept. 26  -- ERC 301B <br/>
+  Sept. 27  -- ACC 211  <br/>
 * Instructors: Mark Stoykovich & Jonathan Skone
 * Canvas Link: [MENG 26030](https://canvas.uchicago.edu/courses/17437)
 * Slack Link: [TBD]
