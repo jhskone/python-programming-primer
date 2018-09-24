@@ -66,5 +66,5 @@ algebra calculations without any effort on your part to configure this.
 ### Installing Anaconda Python
 Follow the [Anaconda Python Installation Instructions](https://docs.anaconda.com/anaconda/install/) provided on the Continuum Analytics site for your 
 particular operating system. Download a 3.x version (either the latest or a version
-no older than 3.5) Do not install the miniconda version as this does not come with
+no older than 3.5). Do not install the miniconda version as this does not come with
 any of the scientific packages preinstalled or the fast math libraries. 
