@@ -63,11 +63,12 @@ of python (3.7) has an end-of-life scheduled for 06,27,2023.
 
 It is recommended that you install the Anaconda distribution of python. <br/>
 Why Anaconda?...<br/>
-because this distribution comes prepackaged with most of the python packages you would 
-want to use for scientific computing, like numpy, matplotlib, scipy, and jupyter 
-notebook server / lab. Furthermore it comes packaged with Intel's MKL math libraries
-that the numpy and scipy functions link against, providing you with faster linear 
-algebra under the hood without any additional effort on your part to configure this. 
+The Anaconda distribution of python comes prepackaged with most of the python 
+packages you would want to use for scientific computing, like numpy, matplotlib, 
+scipy, and jupyter notebook server / lab. Furthermore it comes packaged with 
+Intel's MKL math libraries that the numpy and scipy functions link against, 
+providing you with faster linear algebra under the hood without any additional 
+effort on your part to configure this. 
 ### Installing Anaconda Python
 **Note:** *You do not need to install anything to view and execute the examples 
 for this three day workshop. The installation instructions porvided here are for 
