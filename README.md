@@ -9,7 +9,10 @@ fall quarter course.
 
 * Date: Sep 25 - Sep 27
 * Time: 9:00 am - 12:00 pm
-* Location: TBD
+* On-Site Locations: 
+  Sept. 25  -- ERC 201B
+  Sept. 26  -- ERC 301B 
+  Sept. 27  -- ACC 211 
 * Instructors: Mark Stoykovich & Jonathan Skone
 * Canvas Link: [MENG 26030](https://canvas.uchicago.edu/courses/17437)
 * Slack Link: [TBD]
@@ -24,14 +27,14 @@ fall quarter course.
  
 ### Day 2 (Wednesday September 26)
 * Review of Day 1 
-* Day 2 Topics:
+* [Day 2 Topics:](#day-2)
   * Functions
   * File I/O
   * Plotting and Visualization -- matplotlib
 
 ### Day 3 (Thursday September 27)
 * Review of Day 2 
-* Day 3 Topics:
+* [Day 3 Topics:](#day-3)
   * Structuring a Program
   * More Examples With numpy
   * Other Scientific Libraries
