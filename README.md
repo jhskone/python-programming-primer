@@ -10,7 +10,7 @@ fall quarter course.
 * Date: Sep 25 - Sep 27
 * Time: 9:00 am - 12:00 pm
 * On-Site Locations: 
-  Sept. 25  -- ERC 201B \s\s
+  Sept. 25  -- ERC 201B <br/>
   Sept. 26  -- ERC 301B \s \s
   Sept. 27  -- ACC 211 \s \s
 * Instructors: Mark Stoykovich & Jonathan Skone
