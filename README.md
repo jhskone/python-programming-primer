@@ -41,7 +41,7 @@ fall quarter course.
   * Other Scientific Libraries
 
 ## Running the Collection of Tutorials
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.com%2Fuchicago-ime%2Fpython-programming-primer/8d74be1c6f43d0ab7c0b5ed29af24a5c9b9eaba0?urlpath=lab/tree/master.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgitlab.com%2Fuchicago-ime%2Fpython-programming-primer/ccd9f601f348c20cbe89856fdf175e9ee8676892?urlpath=lab/tree/master.ipynb)
 
 There are no installation requirements for your local computer in order to view 
 and run any of the ipython notebooks used in this short course. Instead we will 
