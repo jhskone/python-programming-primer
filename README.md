@@ -15,7 +15,7 @@ fall quarter course.
   Sept. 27  -- ACC 211  <br/>
 * Instructors: Mark Stoykovich & Jonathan Skone
 * Canvas Link: [MENG 26030](https://canvas.uchicago.edu/courses/17437)
-* Slack Link: [TBD]
+* Slack Link: [Join the ime-ppme Slack workspace](https://join.slack.com/t/ime-ppp/shared_invite/enQtNDQxMTc2MzkzMDU3LWExOTA0MjBjZDcwOTI5Yjc1ODM4YjdiMWM2NTIxMzVmOGI4YzRkYjRhYTJjMDMxNDg1OTcxZjhhODVlMzc5OTU)
 
 ## Schedule:
 ### Day 1 (Tuesday September 25)
@@ -30,7 +30,7 @@ fall quarter course.
 * [Day 2 Topics:](#day-2)
   * Functions
   * File I/O
-  * Plotting and Visualization -- matplotlib
+  * Plotting and Visualization 
 
 ### Day 3 (Thursday September 27)
 * Review of Day 2 
