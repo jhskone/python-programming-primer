@@ -16,7 +16,7 @@ fall quarter course.
 * Instructors: Mark Stoykovich & Jonathan Skone
 * Canvas Link: [MENG 26030](https://canvas.uchicago.edu/courses/17437)
 * Slack Link: [ime-ppp Slack workspace](https://join.slack.com/t/ime-ppp/shared_invite/enQtNDQxMTc2MzkzMDU3LWExOTA0MjBjZDcwOTI5Yjc1ODM4YjdiMWM2NTIxMzVmOGI4YzRkYjRhYTJjMDMxNDg1OTcxZjhhODVlMzc5OTU)
-* Syllabus: [ime-ppp syllabus](docs/ime-ppp_syllabus.pdf)
+* Syllabus: [ime-ppp syllabus](docs/ime-ppp-syllabus.pdf)
 
 ## Schedule:
 ### Day 1 (Tuesday September 25)
