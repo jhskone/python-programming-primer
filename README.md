@@ -15,7 +15,7 @@ fall quarter course.
   Sept. 27  -- ACC 211  <br/>
 * Instructors: Mark Stoykovich & Jonathan Skone
 * Canvas Link: [MENG 26030](https://canvas.uchicago.edu/courses/17437)
-* Slack Link: [Join the ime-ppme Slack workspace](https://join.slack.com/t/ime-ppp/shared_invite/enQtNDQxMTc2MzkzMDU3LWExOTA0MjBjZDcwOTI5Yjc1ODM4YjdiMWM2NTIxMzVmOGI4YzRkYjRhYTJjMDMxNDg1OTcxZjhhODVlMzc5OTU)
+* Slack Link: [ime-ppp Slack workspace](https://join.slack.com/t/ime-ppp/shared_invite/enQtNDQxMTc2MzkzMDU3LWExOTA0MjBjZDcwOTI5Yjc1ODM4YjdiMWM2NTIxMzVmOGI4YzRkYjRhYTJjMDMxNDg1OTcxZjhhODVlMzc5OTU)
 
 ## Schedule:
 ### Day 1 (Tuesday September 25)
