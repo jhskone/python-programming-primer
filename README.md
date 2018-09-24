@@ -64,6 +64,7 @@ notebook server / lab. Furthermore it comes packaged with Intel's MKL math libra
 that the numpy and scipy functions link against, providing you with faster linear 
 algebra calculations without any effort on your part to configure this. 
 ### Installing Anaconda Python
-Follow the Instructions provided on the Continuum Analytics site for your 
+Follow the [Anaconda Python Installation Instructions](https://docs.anaconda.com/anaconda/install/) provided on the Continuum Analytics site for your 
 particular operating system. Download a 3.x version (either the latest or a version
-no older than 3.5)
+no older than 3.5) Do not install the miniconda version as this does not come with
+any of the scientific packages preinstalled or the fast math libraries. 
