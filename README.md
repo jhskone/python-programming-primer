@@ -63,30 +63,32 @@ of python (3.7) has an end-of-life scheduled for 06,27,2023.
 
 ### Installing Anaconda Python
 **Note:** *You do not need to install anything to view and execute the examples 
-for this three day workshop. The installation instructions porvided here are for 
+for this three day workshop. The installation instructions provided here are for 
 you to be able to run python on your own personal resource if you wish to in the 
 future.*
 
 There are several ways in which one can go about installing or upgrading python
-on their system. The python software foundation is responsible for managing and 
+on their system. The [python software foundation](https://www.python.org/) is responsible for managing and 
 distributing various releases of python. You could directly download from their 
 site a version of python for your particular OS, but this is is not the recommended
 way of upgrading yourself. You could also use a package manager if using linux 
 (yum, apt-get, etc.) or a mac (home brew, mac ports, etc.) to system install 
-python, but again this is not the easiest solution. 
+python, but again this is not the easiest solution, requires root access on the
+machine and furthermore can complicate your managment of python on your system. 
 
 The simplest and recommended solution is for you to install the Anaconda 
 distribution of python. <br/>
 Why Anaconda?...<br/>
 The Anaconda distribution of python comes prepackaged with most of the python 
 packages you would want to use for scientific computing, like numpy, matplotlib, 
-scipy, and jupyter notebook server / lab. Furthermore it comes packaged with 
+scipy, and jupyter notebook server/lab. Furthermore it comes packaged with 
 Intel's MKL math libraries that the numpy and scipy functions link against, 
 providing you with faster linear algebra under the hood without any additional 
 effort on your part to configure this. 
 
-Follow the [Anaconda Python Installation Instructions](https://docs.anaconda.com/anaconda/install/) provided on the Continuum Analytics site for your 
-particular operating system. Download a 3.x version (either the latest or a version
-no older than 3.5). Do not install the miniconda version as this does not come with
-any of the scientific packages preinstalled or the fast math libraries. 
+Follow the [Anaconda Python Installation Instructions](https://docs.anaconda.com/anaconda/install/)
+provided on the Continuum Analytics site for your particular operating system. 
+Download a 3.x version (either the latest or a version no older than 3.5). Do not
+install the miniconda version as this does not come with any of the scientific 
+packages preinstalled or the fast math libraries. 
 
