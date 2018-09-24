@@ -62,7 +62,7 @@ because this distribution comes prepackaged with most of the python packages you
 want to use for scientific computing, like numpy, matplotlib, scipy, and jupyter 
 notebook server / lab. Furthermore it comes packaged with Intel's MKL math libraries
 that the numpy and scipy functions link against, providing you with faster linear 
-algebra calculations without any effort on your part to configure this. 
+algebra under the hood without any additional effort on your part to configure this. 
 ### Installing Anaconda Python
 **Note:** *You do not need to install anything to view and execute the examples 
 for this three day workshop. The installation instructions porvided here are for 
