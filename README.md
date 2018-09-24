@@ -42,6 +42,15 @@ fall quarter course.
 ## Running the Collection of Tutorials
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgit.rcc.uchicago.edu%2Fjhskone%2Fime_programming_primer/e1be1074e3ab409cd5e7a8d9abe56e1216faa315?filepath=master.ipynb)
 
-You should only need to click the *binder* link to the left to launch the jupyter
-notebook server to interactively work with the notebooks and other contents of this repo. 
+There are no installation requirements for your local computer in order to view 
+and run any of the ipython notebooks used in this short course. Instead we will 
+rely on cloud compute resources that you will connect to through your web browser.
+In order to access an interactive environment to view and execute the python 
+programming jupyter notebooks, you will need to click the *binder* link at the top
+left of this section. This will open up a new browser window tab that will provision 
+a lightweight remote cloud resource that will spin up a jupyter notebook server 
+for you to interactively work with the notebooks and other contents of this repo. 
+
+## Using Python on Your Personal Computer
+
 
