@@ -9,7 +9,7 @@ fall quarter course.
 
 * Date: Sep 25 - Sep 27
 * Time: 9:00 am - 12:00 pm
-* On-Site Location: Kersten 101 <br/>
+* On-Site Location: Kersten KPTC 101 <br/>
 * Instructors: Mark Stoykovich & Jonathan Skone
 * Canvas Link: [MENG 26030](https://canvas.uchicago.edu/courses/17437)
 * Slack Link: [ime-ppp Slack workspace](https://join.slack.com/t/ime-ppp/shared_invite/enQtNDQxMTc2MzkzMDU3LWExOTA0MjBjZDcwOTI5Yjc1ODM4YjdiMWM2NTIxMzVmOGI4YzRkYjRhYTJjMDMxNDg1OTcxZjhhODVlMzc5OTU)
