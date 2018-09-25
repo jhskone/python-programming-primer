@@ -47,7 +47,10 @@ In order to access an interactive environment to view and execute the python
 programming jupyter notebooks, you will need to click the *binder* link at the top
 left of this section. This will open up a new browser window tab that will provision 
 a lightweight remote cloud resource that will spin up a jupyter notebook server 
-for you to interactively work with the notebooks and other content of this repo. 
+for you to interactively work with the notebooks and other content of this repo.
+Please have patience as the process of cloning the repo, creating a docker image,
+installing all python requirements and launching the jupyter lab takes a little
+more than a minute to complete. 
 
 ## Using Python on Your Personal Computer
 
