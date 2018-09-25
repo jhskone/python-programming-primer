@@ -78,6 +78,8 @@ machine, and furthermore can complicate your managment of python on your system.
 
 The simplest and recommended solution is for you to install the Anaconda 
 distribution of python. <br/>
+ ![ |small ](imgs/anaconda.png)
+
 Why Anaconda?...<br/>
 The Anaconda distribution of python comes prepackaged with most of the python 
 packages you would want to use for scientific computing, like numpy, matplotlib, 
