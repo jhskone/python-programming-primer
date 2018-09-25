@@ -52,6 +52,13 @@ Please have patience as the process of cloning the repo, creating a docker image
 installing all python requirements, and launching jupyter lab, can take
 a minute or more to complete. 
 
+In the event there are technical difficulties with using mybinder, we can use
+[Google's Colaboratory](https://colab.research.google.com) as a fall back. The 
+Colaboratory environment is a slight modification of the jupyter notebook server, 
+but essentially does the same thing. If we need to resort to using Colaboratory,
+we will have to import this repository and unfortunately Colaboratory only 
+supports GitHub at this time, so we will have to use a mirror of this repo. 
+
 ## Using Python on Your Personal Computer
 
 Most of your personal computers will come with python 2.7 already installed, but 
