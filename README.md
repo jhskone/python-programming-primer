@@ -49,8 +49,8 @@ left of this section. This will open up a new browser window tab that will provi
 a lightweight remote cloud resource that will spin up a jupyter notebook server 
 for you to interactively work with the notebooks and other content of this repo.
 Please have patience as the process of cloning the repo, creating a docker image,
-installing all python requirements and launching the jupyter lab takes a little
-more than a minute to complete. 
+installing all python requirements, and launching jupyter lab, can take
+a minute or more to complete. 
 
 ## Using Python on Your Personal Computer
 
